@@ -2,6 +2,7 @@
 layout: default
 title: "Rust Just Deleted Your Build Step (Vite 8 Is 30x Faster)"
 permalink: /rust-just-deleted-your-build-step/
+date: 2026-07-30
 ---
 
 # Rust Just Deleted Your Build Step (Vite 8 Is 30x Faster)
