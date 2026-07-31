@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [10 Open Source AI Tools That Feel Illegal To Know](/10-open-source-ai-tools-that-feel-illegal-to-know/)
 - [Rust Just Deleted Your Build Step (Vite 8 Is 30x Faster)](/rust-just-deleted-your-build-step-vite-8-is-30x/)
+- [Stop Paying for a Coding Model. Laguna S Costs 20 Cents](/stop-paying-for-a-coding-model-laguna-s-costs/)
 - [Ex OpenAI CTO Shipped a 975B Model Free: Can You Run It?](/ex-openai-cto-just-shipped-a-975b-model-for-free/)
 - [Open Models Are 14x Cheaper Per Task. Here Is The Catch](/nobody-should-pay-for-ai-coding-anymore/)
 - [Postgres Destroyed Neo4j. And It's Free](/postgres-19-runs-graph-queries-cancel-the-neo4j/)
