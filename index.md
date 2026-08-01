@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Nobody Should Pay for AI Coding Anymore (Open Models Won)](/nobody-should-pay-for-ai-coding-anymore-open/)
 - [10 Open Source AI Tools That Feel Illegal To Know](/10-open-source-ai-tools-that-feel-illegal-to-know/)
 - [Rust Just Deleted Your Build Step (Vite 8 Is 30x Faster)](/rust-just-deleted-your-build-step-vite-8-is-30x/)
 - [Stop Paying for a Coding Model. Laguna S Costs 20 Cents](/stop-paying-for-a-coding-model-laguna-s-costs/)
