@@ -10,7 +10,6 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
-- [Disney Dropped Copilot For Codex This Is Why You Should Too](/disney-dropped-copilot-for-codex-this-is-why-you/)
 - [Run Kimi K3 For Free And Pay 70% Less Than Claude](/run-kimi-k3-for-free-better-than-claude-code/)
 - [$20 of AI a Month. One of These Two Is Wasting It.](/20-of-ai-a-month-one-of-these-two-is-wasting-it/)
 - [Nobody Should Pay for AI Coding Anymore (Open Models Won)](/nobody-should-pay-for-ai-coding-anymore-open/)
