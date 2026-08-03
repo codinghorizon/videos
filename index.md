@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Next.js Has an Astro Problem and the Numbers Show It](/nextjs-has-an-astro-problem/)
 - [Run Kimi K3 For Free And Pay 70% Less Than Claude](/run-kimi-k3-for-free-better-than-claude-code/)
 - [Why Disney Dropped GitHub Copilot For OpenAI Codex](/why-disney-dropped-copilot-for-codex/)
 - [$20 of AI a Month. One of These Two Is Wasting It.](/20-of-ai-a-month-one-of-these-two-is-wasting-it/)
