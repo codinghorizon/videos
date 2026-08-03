@@ -1,131 +1,203 @@
 ---
 layout: default
-title: "Run Kimi K3 For Free And Pay 70% Less Than Claude"
+title: "Three Ways To Run Kimi K3, And Only One Of Them Is Free"
 permalink: /run-kimi-k3-for-free-better-than-claude-code/
 date: 2026-08-02
 ---
 
-# Run Kimi K3 For Free And Pay 70% Less Than Claude
+# Three Ways To Run Kimi K3, And Only One Of Them Is Free
 
-Every figure this video puts on screen, with where it comes from.
+Every figure this video puts on screen, and where it came from.
+
+---
 
 ## The model
 
-**2.8T total parameters, 104B active per token.** Stated on the Kimi K3 model card.
+**2.8 trillion total parameters, 104 billion activated per token.**
+Moonshot AI's model card gives Total Parameters 2.8T and Activated Parameters 104B.
 https://huggingface.co/moonshotai/Kimi-K3
 
-**Context window of 1,048,576 tokens.** Stated on the model card as `1048576`, and described
-as a 1M token context window in the Open Platform quickstart.
-https://huggingface.co/moonshotai/Kimi-K3
-https://platform.kimi.ai/docs/guide/kimi-k3-quickstart
-
-**MXFP4 weights, MXFP8 activations.** The model card gives the published precision as
-"MXFP4 weights / MXFP8 activations".
+**896 experts, 16 selected per token.**
+Same model card: Number of Experts 896, Selected Experts per Token 16. It also gives 93
+layers, 96 attention heads and a 160K vocabulary.
 https://huggingface.co/moonshotai/Kimi-K3
 
-**96 safetensors shards, 1.56 TB.** The repository file listing shows 96 safetensors files
-and a total repository size of 1.56 TB, with most shards around 16.6 to 17 GB.
+**Context length 1,048,576 tokens.**
+Stated on the model card as the context length, and repeated in the vLLM serving recipe as
+`1,048,576 ctx`.
+https://huggingface.co/moonshotai/Kimi-K3
+https://recipes.vllm.ai/moonshotai/Kimi-K3
+
+**Licence: Kimi K3 License.**
+The model card names the licence. It is Moonshot's own licence rather than a standard
+open source one, which is why the video calls it that and nothing else.
+https://huggingface.co/moonshotai/Kimi-K3
+
+**Released 16 July 2026; weights published 27 July 2026.**
+The model launched first as an API and the downloadable weights followed eleven days
+later.
+https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
+
+**Largest open weight model shipped.**
+Moonshot bills it as the first openly released model in the three trillion parameter
+class. The comparison bars are the next largest open weight releases: Kimi K2 at 1T,
+DeepSeek V3 at 671B and Qwen3 Coder at 480B, each from its own model card.
+https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
+
+---
+
+## The weights
+
+**1.56 TB across 96 safetensors shards.**
+The Hugging Face file browser reports the repository at 1.56 TB, and the shards are named
+`model-00001-of-000096.safetensors` through `model-00096-of-000096.safetensors`. Most
+shards are 17 GB.
 https://huggingface.co/moonshotai/Kimi-K3/tree/main
 
-**Kimi K3 License.** The licence named on the model card.
+**MXFP4 weights, MXFP8 activations, applied in training.**
+The model card gives the quantisation as "MXFP4 weights / MXFP8 activations
+(quantization-aware training)". This is what Moonshot trained and shipped, not a community
+quantisation applied afterwards.
 https://huggingface.co/moonshotai/Kimi-K3
 
-**Parameter counts used for comparison.** Llama 3.1 405B, DeepSeek V3 671B and Kimi K2 1T
-are the counts published on each model's own card. They are on screen only to give the
-2.8T figure a scale to sit against.
+**5.6 TB at bf16.**
+Arithmetic, shown as a comparison rather than as a released artefact: 2.8 trillion
+parameters at two bytes each is 5.6 TB. The point on screen is the difference between that
+and the 1.56 TB actually published.
 
-## The published scores
+**6h 56m to download 1.56 TB over a 500 Mbps line.**
+Arithmetic on the published repository size: 1.56 TB is 12,480 gigabits, and at 0.5
+gigabits per second that is 24,960 seconds, or 6 hours 56 minutes.
 
-All five come from the Kimi K3 model card, which notes they were obtained with reasoning
-effort set to `max` and temperature 1.0.
+---
+
+## Serving it yourself
+
+**At least 8x GB300.**
+The vLLM recipe for the model gives "At least 8x GB300" as the minimum, and notes
+"Multi-node for real production traffic". It gives 8x MI355X or MI350X as the ROCm
+alternative.
+https://recipes.vllm.ai/moonshotai/Kimi-K3
+
+**24 GB on a single consumer card.**
+The comparison line on screen. It is the ceiling of the common consumer parts, and it is
+there to show the gap rather than to describe any particular card.
+
+---
+
+## The free route
+
+**Kimi Code installs from a shell script.**
+The repository gives `curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash` for
+macOS and Linux, and a PowerShell equivalent for Windows.
+https://github.com/MoonshotAI/kimi-code
+
+**Authentication is `/login`, with two choices.**
+Run `/login` inside the CLI and pick either Kimi Code OAuth or a Moonshot AI Open Platform
+API key.
+https://github.com/MoonshotAI/kimi-code
+
+**The plan ladder: Adagio free, Moderato $19, Allegretto $39, Allegro $99, Vivace $199.**
+https://www.codeagentswarm.com/en/guides/kimi-code-plans-and-pricing
+
+**The free allowance is not published.**
+This is the caveat the video puts on screen rather than a number. Moonshot does not
+document a request allowance, window length, concurrency or rate limit for the free rung.
+Coverage describes it as "the entry point to Kimi, with tight limits" and notes that
+specific allowance metrics are not publicly documented.
+https://www.codeagentswarm.com/en/guides/kimi-code-plans-and-pricing
+https://apidog.com/blog/how-to-use-kimi-k3-for-free/
+
+---
+
+## The paid route
+
+**OpenAI compatible, at https://api.moonshot.ai/v1, model id `kimi-k3`.**
+The platform documents an OpenAI format endpoint, so an existing client changes its base
+URL, key and model string and nothing else.
+https://platform.kimi.ai/docs/api/overview
+
+**$3.00 per million input tokens, $15.00 per million output tokens.**
+The same prices apply on the first party API and on the aggregators that carry the model.
+https://artificialanalysis.ai/models/kimi-k3/providers
+
+**$0.30 per million on a cache hit, a 90% discount on input.**
+Automatic prompt caching drops the input price by an order of magnitude.
+https://kimi-k2.org/blog/37-kimi-k3-api-pricing-cost-control
+
+**There is no free API for this model.**
+This is why the video calls the middle route the one you pay for. No provider currently
+serves `kimi-k3` through a free OpenAI compatible endpoint; free access is the consumer
+tier and the weights, not the API.
+https://freellm.net/blog/is-kimi-k3-free-api-pricing-openrouter-alternatives
+
+**Rate limiting under load.**
+Capacity has been constrained across both the first party API and the aggregators, with
+intermittent 429 responses reported as upstream capacity catches up.
+https://freellm.net/blog/is-kimi-k3-free-api-pricing-openrouter-alternatives
+
+---
+
+## Benchmarks
+
+**Moonshot's reported scores: GPQA Diamond 93.5, BrowseComp 91.2, Terminal-Bench 2.1 88.3,
+OSWorld-Verified 84.8.**
+All four are from the model card. The card also gives DeepSWE 67.5 and SWE-Marathon 42.0.
 https://huggingface.co/moonshotai/Kimi-K3
 
-| Benchmark | Kimi K3 |
-| --- | --- |
-| Terminal Bench 2.1 | 88.3 |
-| SWE Marathon | 42.0 |
-| FrontierSWE | 81.2 |
-| DeepSWE | 67.5 |
-| GPQA Diamond | 93.5 |
+**The same model scored 85 on Terminal-Bench 2.1 under an independent harness.**
+Against Moonshot's own 88.3. The 3.3 point gap is the same model on the same benchmark
+with a different scaffold, which is the caveat the video makes.
+https://apidog.com/blog/kimi-k3-benchmarks/
 
-## Price
+---
 
-**Kimi K3: $3.00 input, $0.30 cached input, $15.00 output, per million tokens.** The Open
-Platform price list for `kimi-k3`, which states the figures are the cost per 1M tokens
-consumed and prices cache hits separately from cache misses.
-https://platform.kimi.ai/docs/pricing/chat-k3
+## The window in practice
 
-**Claude Fable 5: $10 input, $50 output, per million tokens, with a 1M token context
-window.** Anthropic's own model documentation.
-https://platform.claude.com/docs/en/about-claude/models/overview
+**90.4 with the full 1,048,576 token window and no context management.**
+Moonshot's own long context result for the model.
+https://www.kimi.com/blog/kimi-k3
 
-**70% less per token.** Arithmetic from the two price lists above, and it holds on both
-sides: $3 against $10 is a 70% reduction on input, and $15 against $50 is a 70% reduction
-on output.
+**Usable capacity runs 60 to 70 per cent of the advertised maximum.**
+The general finding across long context leaderboards, which is why the video draws the
+advertised window and the usable part of it as two different bars.
+https://awesomeagents.ai/leaderboards/long-context-benchmarks-leaderboard/
 
-**$1 minimum top up.** The quickstart states the flagship model is "unlocked after a
-successful top-up (minimum $1)".
-https://platform.kimi.ai/docs/guide/kimi-k3-quickstart
+---
 
-**OpenAI compatible.** The quickstart documents calling the model through the OpenAI SDK
-pointed at the Moonshot endpoint.
-https://platform.kimi.ai/docs/guide/kimi-k3-quickstart
+## Measured speed
 
-## The command line tool
+**Moonshot's own endpoint: 35 tokens per second, 2.85 seconds to first token.**
+**Modal: 157.3 tokens per second, 13.98 seconds to first token.**
+**Databricks: 214.8 tokens per second, 10.45 seconds to first token.**
+The same weights, hosted by different people, measured on the same harness. Together AI is
+the quickest to start at 1.04 seconds.
+https://artificialanalysis.ai/models/kimi-k3/providers
 
-**Install.** The documented routes are a shell script on macOS and Linux
-(`curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash`), a PowerShell equivalent
-on Windows, and an npm install covered in the getting started guide.
-https://github.com/MoonshotAI/kimi-code
+---
 
-**Rebuilt on Node.js.** The documentation describes the tool "moving from Python/uv to
-Node.js", with a simpler install, faster startup and a redesigned terminal interface.
-https://www.kimi.com/code/docs/en/
+## Claude Code, for the comparison
 
-**Agent Client Protocol.** "Kimi Code CLI speaks the Agent Client Protocol, so
-ACP-compatible editors and IDEs (Zed, JetBrains, …) can drive a session over stdio."
-https://github.com/MoonshotAI/kimi-code
+**200,000 tokens of context on the subscription plans.**
+Enterprise reaches 500,000, and Opus can go to a million. The 200,000 figure on screen is
+the subscription default, which is what the comparison is against.
+https://www.cloudzero.com/blog/claude-code-pricing/
 
-**Video input.** "Drop a screen recording or demo clip into the chat and let the agent
-watch what is hard to describe in words."
-https://github.com/MoonshotAI/kimi-code
+**Max 20x at $200 per month.**
+Max 5x is $100 and Pro is $20.
+https://www.cloudzero.com/blog/claude-code-pricing/
 
-**Signing in.** Running `/login` offers either Kimi Code OAuth or a Moonshot AI Open
-Platform API key.
-https://github.com/MoonshotAI/kimi-code
+---
 
-**About 300 to 1,200 requests per 5 hour window, up to 30 concurrent.** The usage
-allowance described in the Kimi Code documentation.
-https://www.kimi.com/code/docs/en/
+## Caveats
 
-## Running the weights yourself
-
-**32 x H100 across four nodes, 2,560 GB.** The published serving recipes put the Hopper
-minimum at four 8-GPU H100 80GB nodes, which is 32 GPUs and 2,560 GB of aggregate GPU
-memory.
-
-**Or 16 x H200.** The alternative published configuration, at 141 GB per card.
-
-**Every published configuration is multi node.** No single 8-GPU node holds the model: the
-checkpoint alone is 1.56 TB, and a mixture of experts model needs every expert resident in
-GPU memory during inference even though only a fraction of the parameters are active for
-any one token, so the memory requirement covers the whole checkpoint plus the KV cache and
-activations on top.
-
-## What is not settled
-
-**There is no head to head benchmark comparison in this video, and that is deliberate.**
-Anthropic does not publish benchmark scores for Claude Fable 5 in its model documentation.
-Numbers circulating for it come from third party write ups rather than from the vendor, so
-the only comparisons made here are the two that both vendors state themselves: the price
-per million tokens and the size of the context window.
-
-**The published scores are the vendor's own.** Kimi K3's five scores are self reported on
-its model card at a specific reasoning effort and temperature, and have not been
-independently reproduced here.
-
-**The terminal session shown is illustrative.** The file names, match counts, diff and test
-output on screen stand in for a real session; they are not a recording of one.
-
-**Pricing and allowances move.** The API prices, the top up minimum and the request
-allowance are as published at the time of writing and are not contractual.
+- Moonshot does not publish what the free Adagio tier actually allows. The video says so
+  on screen rather than estimating it.
+- Every benchmark score attributed to Moonshot is Moonshot's own run. Only the
+  Terminal-Bench 2.1 figure has an independent number beside it.
+- Provider throughput and time to first token move as capacity changes. The figures here
+  are a snapshot.
+- Claude Code's context window depends on the plan and the model behind it. A million
+  tokens is reachable on Opus; the comparison in this video uses the subscription default.
+- The hardware minimum is what the serving recipe calls a minimum, not a comfortable
+  configuration, and it is for the model as Moonshot shipped it.
