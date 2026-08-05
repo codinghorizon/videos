@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Run A Local AI Model On Zero Video Memory For Free](/run-this-local-ai-on-0gb-vram-free/)
+- [The 10 Best Free Local AI Models That Don't Suck](/10-best-free-local-models-that-dont-suck/)
 - [Next.js Has an Astro Problem and the Numbers Show It](/nextjs-has-an-astro-problem/)
 - [Three Ways To Run Kimi K3, And Only One Of Them Is Free](/run-kimi-k3-for-free-better-than-claude-code/)
 - [Why Disney Dropped GitHub Copilot For OpenAI Codex](/why-disney-dropped-copilot-for-codex/)
