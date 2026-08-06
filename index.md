@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Buzz Wants To Replace Slack And GitHub Completely](/buzz-is-about-to-replace-github-slack/)
+- [Forget AI Coders. Agent Swarms Are Here (Run A Dev Team)](/forget-ai-coders-agent-swarms-are-here/)
 - [Run A Local AI Model On Zero Video Memory For Free](/run-this-local-ai-on-0gb-vram-free/)
 - [The 10 Best Free Local AI Models That Don't Suck](/10-best-free-local-models-that-dont-suck/)
 - [Next.js Has an Astro Problem and the Numbers Show It](/nextjs-has-an-astro-problem/)
