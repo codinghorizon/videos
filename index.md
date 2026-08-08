@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [10 Claude Skills That Stop You Repeating Yourself](/10-claude-skills-to-10x-your-workflow/)
 - [These AI Agents Are Getting Too Good at Hacking](/these-ai-agents-are-getting-too-good-at-hacking/)
 - [Buzz Wants To Replace Slack And GitHub Completely](/buzz-is-about-to-replace-github-slack/)
 - [Forget AI Coders. Agent Swarms Are Here (Run A Dev Team)](/forget-ai-coders-agent-swarms-are-here/)
