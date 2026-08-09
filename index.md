@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [GitHub Repos Are Banning AI And Agents Ignore It](/github-repos-are-banning-ai-agents-dont-care/)
 - [Your CLAUDE.md Is Probably Wrong And Making Claude Worse](/your-claudemd-file-is-probably-wrong-change-this/)
 - [Your Codebase Could Soon Run Itself, Cursor Update](/your-codebase-could-soon-run-itself-cursor-update/)
 - [10 Claude Skills That Stop You Repeating Yourself](/10-claude-skills-to-10x-your-workflow/)
