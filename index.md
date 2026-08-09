@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Your CLAUDE.md Is Probably Wrong And Making Claude Worse](/your-claudemd-file-is-probably-wrong-change-this/)
 - [10 Claude Skills That Stop You Repeating Yourself](/10-claude-skills-to-10x-your-workflow/)
 - [Open Weights Is Not Open Source And Kimi Proved It](/open-weights-is-not-open-source-and-kimi/)
 - [The Truth About Running AI On Your Own Hardware](/the-truth-about-running-ai-on-your-own-hardware/)
