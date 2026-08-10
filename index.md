@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Meta's Coding Agent Is Cheap Because You Are Paying in Code](/meta-just-entered-the-ai-coding-agent-war/)
+- [Next.js Is Quietly Becoming an AI Agent Framework](/nextjs-is-quietly-becoming-an-ai-agent-framework/)
 - [Stop Blaming The Model, Your AI Coding Setup Is Wrong](/your-ai-coding-setup-is-probably-wrong/)
 - [Your $200 AI Coding Plan Is Mostly Paying for Waste](/stop-paying-200-month-for-ai-coding/)
 - [10 Free Coding Agents That Replace Paid AI Tools](/10-free-coding-agents-that-replace-paid-tools/)
