@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [Meta's Coding Agent Is Cheap Because You Are Paying in Code](/meta-just-entered-the-ai-coding-agent-war/)
 - [Stop Blaming The Model, Your AI Coding Setup Is Wrong](/your-ai-coding-setup-is-probably-wrong/)
+- [Your $200 AI Coding Plan Is Mostly Paying for Waste](/stop-paying-200-month-for-ai-coding/)
 - [10 Free Coding Agents That Replace Paid AI Tools](/10-free-coding-agents-that-replace-paid-tools/)
 - [GitHub Repos Are Banning AI And Agents Ignore It](/github-repos-are-banning-ai-agents-dont-care/)
 - [Your CLAUDE.md Is Probably Wrong And Making Claude Worse](/your-claudemd-file-is-probably-wrong-change-this/)
