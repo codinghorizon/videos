@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Local AI Just Got Voice, Vision, Video And Routing](/localai-all-in-one-local-ai-stack/)
 - [Meta Just Made Local AI Mainstream With Muse Glimmer](/meta-muse-glimmer-local-ai-went-mainstream/)
 - [Nvidia Open Sourced The Thing That Picks Your Model](/nvidia-nemotron-35-lightning-nemo-switchyard/)
 - [The Best Open AI Models Are The Ones Nobody Trusts](/why-companies-are-afraid-of-local-ai/)
