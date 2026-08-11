@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Nvidia Open Sourced The Thing That Picks Your Model](/nvidia-nemotron-35-lightning-nemo-switchyard/)
+- [The Best Open AI Models Are The Ones Nobody Trusts](/why-companies-are-afraid-of-local-ai/)
 - [Meta's Coding Agent Is Cheap Because You Are Paying in Code](/meta-just-entered-the-ai-coding-agent-war/)
 - [Next.js Is Quietly Becoming an AI Agent Framework](/nextjs-is-quietly-becoming-an-ai-agent-framework/)
 - [Stop Blaming The Model, Your AI Coding Setup Is Wrong](/your-ai-coding-setup-is-probably-wrong/)
