@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [GitHub Just Made The AI Coding War Impossible To Fake](/github-can-now-see-which-ai-agent-your-team/)
 - [Microsoft Doesn't Need OpenAI To Win AI Coding](/microsoft-just-built-its-own-coding-model/)
 - [Local AI Just Got Voice, Vision, Video And Routing](/localai-all-in-one-local-ai-stack/)
 - [Meta Just Made Local AI Mainstream With Muse Glimmer](/meta-muse-glimmer-local-ai-went-mainstream/)
