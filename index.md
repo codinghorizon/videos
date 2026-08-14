@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Run Real AI Agents In 2.5GB Of RAM With LFM2.5](/run-ai-agents-in-2-5gb-ram-lfm2-5/)
 - [Your Local Coding Model Is Not Useless, It Is Blind](/run-qwen3-coder-locally-with-256k-context/)
 - [GitHub Just Made The AI Coding War Impossible To Fake](/github-can-now-see-which-ai-agent-your-team/)
 - [It Runs On Your Laptop And Your Employer Can Read It](/claude-code-can-now-report-everything-you-do/)
