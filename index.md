@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [AI Finds The Five Files That Explain Any Codebase](/use-ai-to-understand-a-codebase-in-10-minutes/)
 - [Run Real AI Agents In 2.5GB Of RAM With LFM2.5](/run-ai-agents-in-2-5gb-ram-lfm2-5/)
 - [The Local AI That Reads Your Screen Without Uploading It](/run-local-vision-ai-in-just-3-3gb-ram/)
 - [The Truth About Local AI That Sees And Hears You](/this-local-ai-can-see-hear-and-talk/)
