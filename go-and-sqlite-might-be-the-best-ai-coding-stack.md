@@ -7,6 +7,7 @@ date: 2026-08-15
 
 # The Least Fashionable Stack Writes The Best AI Code
 
+{% raw %}
 Every factual claim the finished picture puts on screen, chased to a primary source. Worked
 from the `TEXT:` lines in BEATS.md, so nothing that renders as words or figures is missed.
 
@@ -163,3 +164,4 @@ Beats 009, 061, 062, 066, 068 and 089 draw `./app` as a single object you can co
 - **"Most software is boring"** (beats 075 to 078). The share of software that is internal,
   small and unglamorous is asserted rather than measured, and the band on screen is drawn as
   a proportion with no percentage printed on it.
+{% endraw %}
