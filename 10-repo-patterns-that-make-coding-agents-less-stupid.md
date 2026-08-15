@@ -7,6 +7,7 @@ date: 2026-08-15
 
 # Your Repo Is Making Your Coding Agent Look Stupid
 
+{% raw %}
 The video is an argument about how a codebase shapes what a coding agent does, and it
 makes no statistical claim: there is no benchmark, no survey and no market figure in it
 anywhere. What the shots put on screen instead is tooling that exists, so what needs
@@ -112,3 +113,4 @@ finding, and none is cited on screen as one.
 - The relative ranking of the ten patterns is editorial. Nothing establishes that a repo
   which rejects bad code matters more than a discoverable command surface; the countdown is
   a structure for the argument.
+{% endraw %}
