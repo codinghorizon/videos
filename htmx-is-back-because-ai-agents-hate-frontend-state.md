@@ -5,6 +5,7 @@ permalink: /htmx-is-back-because-ai-agents-hate-frontend-state/
 date: 2026-08-15
 ---
 
+{% raw %}
 # Your Frontend State Is Confusing Your Coding Agent
 
 Everything the finished picture puts on screen as code, syntax or a named behaviour,
@@ -105,3 +106,4 @@ The following are the script's position and are carried as such:
 
 These are stated as a view in the narration and are listed under **Not checked** in the
 upload sheet rather than presented as findings.
+{% endraw %}
