@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [10 Things Separate Real AI Coding From Vibe Slop](/10-ai-coding-setups-that-beat-vibe-coding-slop/)
+- [Postgres for AI Agents: The Whole Backend Trick](/postgres-is-becoming-the-ai-agent-toolbox/)
 - [The Least Fashionable Stack Writes The Best AI Code](/go-and-sqlite-might-be-the-best-ai-coding-stack/)
 - [The Most Boring Stacks Make AI Write The Best Code](/10-programming-stacks-that-make-ai-write-better/)
 - [Your Frontend State Is Confusing Your Coding Agent](/htmx-is-back-because-ai-agents-hate-frontend-state/)
