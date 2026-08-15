@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [10 Things Separate Real AI Coding From Vibe Slop](/10-ai-coding-setups-that-beat-vibe-coding-slop/)
 - [The Most Boring Stacks Make AI Write The Best Code](/10-programming-stacks-that-make-ai-write-better/)
+- [Your Frontend State Is Confusing Your Coding Agent](/htmx-is-back-because-ai-agents-hate-frontend-state/)
 - [AI Finds The Five Files That Explain Any Codebase](/use-ai-to-understand-a-codebase-in-10-minutes/)
 - [Run Real AI Agents In 2.5GB Of RAM With LFM2.5](/run-ai-agents-in-2-5gb-ram-lfm2-5/)
 - [The Cheap AI Model Is The Expensive One For This Job](/use-the-cheap-ai-model-for-this-not-for-that/)
