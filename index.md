@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Qwen3.8 Max: The One Million Token Agent Trap Now](/qwen3-8-max-one-million-token-agent-trap/)
 - [10 Things Separate Real AI Coding From Vibe Slop](/10-ai-coding-setups-that-beat-vibe-coding-slop/)
 - [Postgres for AI Agents: The Whole Backend Trick](/postgres-is-becoming-the-ai-agent-toolbox/)
 - [The Least Fashionable Stack Writes The Best AI Code](/go-and-sqlite-might-be-the-best-ai-coding-stack/)
