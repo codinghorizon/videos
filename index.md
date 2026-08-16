@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [GLM 5.3: The Security Agent Test Starts Right Now](/glm-5-3-security-review-agent/)
 - [OMG: The Missing Ledger For AI Agent Teams Now](/omg-the-missing-ledger-for-multi-agent-coding/)
 - [Qwen3.8 Max: The One Million Token Agent Trap Now](/qwen3-8-max-one-million-token-agent-trap/)
 - [10 Things Separate Real AI Coding From Vibe Slop](/10-ai-coding-setups-that-beat-vibe-coding-slop/)
