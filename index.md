@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [DeepSeek Harness: 127K Stars and One Huge Warning](/deepseek-harness-everything-is-a-plugin/)
 - [GLM 5.3: The Security Agent Test Starts Right Now](/glm-5-3-security-review-agent/)
 - [North Mini Code: The Cheap Worker Model Arrived](/north-mini-code/)
 - [OMG: The Missing Ledger For AI Agent Teams Now](/omg-the-missing-ledger-for-multi-agent-coding/)
