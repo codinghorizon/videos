@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [DeepSeek Harness: 127K Stars and One Huge Warning](/deepseek-harness-everything-is-a-plugin/)
+- [Kimi K3 Has One Million Tokens And One Huge Trap](/kimi-k3-context-trap/)
 - [Local AI Hardware: The Spec Nobody Warns You About](/what-you-need-to-run-local-ai/)
 - [GLM 5.3: The Security Agent Test Starts Right Now](/glm-5-3-security-review-agent/)
 - [North Mini Code: The Cheap Worker Model Arrived](/north-mini-code/)
