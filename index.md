@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Claude Watermarks Already Have A Removal Problem](/claude-watermark-remover-repo/)
 - [DeepSeek Harness: 127K Stars and One Huge Warning](/deepseek-harness-everything-is-a-plugin/)
 - [Kimi K3 Has One Million Tokens And One Huge Trap](/kimi-k3-context-trap/)
 - [Local AI Hardware: The Spec Nobody Warns You About](/what-you-need-to-run-local-ai/)
