@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Grok Bot Turns One Person Into An AI Team Overnight](/grok-bot-is-the-best-ai-agent-right-now/)
+- [Someone Ran Kimi K3 On 8 GB RAM And It Hurts Badly](/kimi-k3-8gb-ram-reddit/)
 - [Claude Watermarks Already Have A Removal Problem](/claude-watermark-remover-repo/)
 - [DeepSeek Harness: 127K Stars and One Huge Warning](/deepseek-harness-everything-is-a-plugin/)
 - [Kimi K3 Has One Million Tokens And One Huge Trap](/kimi-k3-context-trap/)
