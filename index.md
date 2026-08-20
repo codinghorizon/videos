@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [Grok Bot Turns One Person Into An AI Team Overnight](/grok-bot-is-the-best-ai-agent-right-now/)
 - [Mojo Just Made Python AI Look Painfully Slow Now](/mojo-is-the-new-ai-programming-language/)
+- [OpenAI Astra Just Made GPT 6 Feel Shockingly Close](/openai-astra-gpt-6-is-getting-close/)
 - [OpenAI's $12B Bet Just Exposed The Whole AI Bubble](/ai-bubble-bursting-openai-12b-reality-check/)
 - [Someone Ran Kimi K3 On 8 GB RAM And It Hurts Badly](/kimi-k3-8gb-ram-reddit/)
 - [Your Phone Can Run Real AI Now And That Changes Apps](/local-ai-runs-on-your-phone/)
