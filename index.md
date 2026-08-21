@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [15 Google AI Tools That Make Paid Apps Look Dumb](/15-google-ai-tools-that-replace-paid-monthly-tools/)
 - [This AI Answers The Questions ChatGPT Still Refuses](/this-ai-has-no-refusal-button/)
 - [Grok Bot Turns One Person Into An AI Team Overnight](/grok-bot-is-the-best-ai-agent-right-now/)
 - [Mojo Just Made Python AI Look Painfully Slow Now](/mojo-is-the-new-ai-programming-language/)
