@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [DeepSeek V4 Flash Makes Claude Look Expensive Now](/deepseek-v4-flash-premium-models-are-wasting-money/)
 - [15 Google AI Tools That Make Paid Apps Look Dumb](/15-google-ai-tools-that-replace-paid-monthly-tools/)
 - [Stop Paying Claude Code Prices Use Antigravity Now](/claude-code-just-became-free-using-antigravity/)
 - [This AI Answers The Questions ChatGPT Still Refuses](/this-ai-has-no-refusal-button/)
