@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [MCP Just Became The AI Agent Control Layer War](/mcp-is-becoming-agent-infrastructure/)
 - [NVIDIA Just Proved Your AI Model Is Not Enough](/nvidia-avo-harness-beats-smarter-models/)
+- [Qwen 3.8 27B Just Made GPT 5.6 Look Wasteful Now](/qwen-3-8-27b-open-model-beats-gpt-5-6/)
 - [5 Claude Skills Fix The Dumbest Coding Mistakes](/claude-skills-stop-claude-being-stupid/)
 - [Alibaba Just Made AI Agents Much Harder To Hide](/alibaba-agentsight-makes-ai-agents-feel-dangerous/)
 - [DeepSeek V4 Flash Makes Claude Look Expensive Now](/deepseek-v4-flash-premium-models-are-wasting-money/)
