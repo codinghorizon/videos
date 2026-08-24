@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Claude Code Has A New Problem Nobody Is Measuring](/ante-qwen-claude-code-resource-war/)
+- [Foxl Makes Every Other AI Agent Feel Backwards](/foxl-ai-agent/)
 - [MCP Just Became The AI Agent Control Layer War](/mcp-is-becoming-agent-infrastructure/)
 - [NVIDIA Just Proved Your AI Model Is Not Enough](/nvidia-avo-harness-beats-smarter-models/)
 - [Qwen 3.8 27B Just Made GPT 5.6 Look Wasteful Now](/qwen-3-8-27b-open-model-beats-gpt-5-6/)
