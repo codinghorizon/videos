@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [NVIDIA Just Proved Your AI Model Is Not Enough](/nvidia-avo-harness-beats-smarter-models/)
 - [5 Claude Skills Fix The Dumbest Coding Mistakes](/claude-skills-stop-claude-being-stupid/)
 - [Alibaba Just Made AI Agents Much Harder To Hide](/alibaba-agentsight-makes-ai-agents-feel-dangerous/)
 - [DeepSeek V4 Flash Makes Claude Look Expensive Now](/deepseek-v4-flash-premium-models-are-wasting-money/)
