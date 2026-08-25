@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Apple Just Made The Local AI Box Developers Need](/apple-made-the-local-ai-box-i-actually-wanted/)
 - [Your Laptop Is Secretly Wasting Local AI Power](/make-your-machine-actually-good-at-local-ai/)
 - [Claude Code Has A New Problem Nobody Is Measuring](/ante-qwen-claude-code-resource-war/)
 - [Foxl Makes Every Other AI Agent Feel Backwards](/foxl-ai-agent/)
