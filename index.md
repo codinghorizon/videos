@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Your Laptop Is Secretly Wasting Local AI Power](/make-your-machine-actually-good-at-local-ai/)
 - [Claude Code Has A New Problem Nobody Is Measuring](/ante-qwen-claude-code-resource-war/)
 - [Foxl Makes Every Other AI Agent Feel Backwards](/foxl-ai-agent/)
 - [MCP Just Became The AI Agent Control Layer War](/mcp-is-becoming-agent-infrastructure/)
