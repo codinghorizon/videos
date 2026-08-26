@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [This Open Source AI Map Feels Like A Command Room](/gods-eye-view-open-source-osint-map/)
 - [Apple Just Made The Local AI Box Developers Need](/apple-made-the-local-ai-box-i-actually-wanted/)
 - [Mistral HUMAIN Is The AI Warning Developers Need](/mistral-humain-sovereign-ai-shift/)
 - [NVIDIA Just Made Local AI Too Fast To Ignore Now](/nvidia-is-making-local-ai-too-fast-to-ignore/)
