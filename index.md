@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [NVIDIA Groq 3 LPX Makes AI Agents Feel Alive Now](/nvidia-groq-3-lpx-agent-latency/)
 - [This Open Source AI Map Feels Like A Command Room](/gods-eye-view-open-source-osint-map/)
 - [Apple Just Made The Local AI Box Developers Need](/apple-made-the-local-ai-box-i-actually-wanted/)
 - [Mistral HUMAIN Is The AI Warning Developers Need](/mistral-humain-sovereign-ai-shift/)
