@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [IBM Granite 4.2: Use 3B Before Claude Or GPT 5](/ibm-granite-4-2-right-sized-ai/)
 - [OpenAI Just Put Nvidias AI Chip Monopoly On Notice](/openai-jalapeno-nvidia-deepseek/)
 - [NVIDIA Groq 3 LPX Makes AI Agents Feel Alive Now](/nvidia-groq-3-lpx-agent-latency/)
 - [This Open Source AI Map Feels Like A Command Room](/gods-eye-view-open-source-osint-map/)
