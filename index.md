@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [A 9B Qwen Model Just Added 14.6 SWE Bench Points](/microsoft-agent-lightning-qwen-35-percent-better/)
 - [IBM Granite 4.2: Use 3B Before Claude Or GPT 5](/ibm-granite-4-2-right-sized-ai/)
 - [OpenAI Just Put Nvidias AI Chip Monopoly On Notice](/openai-jalapeno-nvidia-deepseek/)
 - [NVIDIA Groq 3 LPX Makes AI Agents Feel Alive Now](/nvidia-groq-3-lpx-agent-latency/)
