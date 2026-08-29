@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Hugging Face Just Made AI Physical For Only $399](/hugging-face-microduck-programmable-ai-robot/)
 - [A 9B Qwen Model Just Added 14.6 SWE Bench Points](/microsoft-agent-lightning-qwen-35-percent-better/)
 - [IBM Granite 4.2: Use 3B Before Claude Or GPT 5](/ibm-granite-4-2-right-sized-ai/)
 - [Tencent Hy4 Just Put Qwen And DeepSeek On Notice](/tencent-hy4-770b-open-model/)
