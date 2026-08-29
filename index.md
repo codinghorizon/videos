@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Do Not Buy A Local AI Box Until You See This Now](/new-mac-mini-or-used-nvidia-box-for-local-ai/)
 - [Hugging Face Just Made AI Physical For Only $399](/hugging-face-microduck-programmable-ai-robot/)
 - [OpenAI Codex Wants The Most Dangerous Permission](/openai-codex-persistent-agent/)
 - [A 9B Qwen Model Just Added 14.6 SWE Bench Points](/microsoft-agent-lightning-qwen-35-percent-better/)
