@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [FreeToken Just Broke The Local AI VRAM Limit Again](/freetoken-deepseek-one-rtx-5090/)
 - [OpenAI Codex Can Now Work For Twenty Four Hours](/openai-codex-agent-never-stops-working/)
 - [OpenClaw 2.0 Is Coming For Your AI Coding Stack](/openclaw-2-agent-operating-layer/)
 - [Tiny AI PCs Are Running Models They Should Not](/massive-local-ai-mini-pcs/)
