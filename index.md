@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [OpenAI Codex Can Now Work For Twenty Four Hours](/openai-codex-agent-never-stops-working/)
 - [Your 8GB GPU Can Code Locally If You Pick Right](/local-ai-coding-8gb-vram/)
 - [Do Not Buy A Local AI Box Until You See This Now](/new-mac-mini-or-used-nvidia-box-for-local-ai/)
 - [Hugging Face Just Made AI Physical For Only $399](/hugging-face-microduck-programmable-ai-robot/)
