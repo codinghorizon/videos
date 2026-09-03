@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Claude Fable 5.1 Has One Number You Cannot Ignore](/claude-fable-5-1-performance-jump/)
 - [FreeToken Just Broke The Local AI VRAM Limit Again](/freetoken-deepseek-one-rtx-5090/)
 - [Nvidia Just Made AI Agents Too Fast To Ignore!](/nvidia-groq-3-lpx-just-made-ai-agents-too-fast/)
 - [OpenAI Codex Can Now Work For Twenty Four Hours](/openai-codex-agent-never-stops-working/)
