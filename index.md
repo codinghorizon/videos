@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [The Qwen Speed Run That Changes Local AI Forever](/qwen-3-8-27b-91-tokens-local-ai/)
 - [The Best 16GB Coding Model Is Not The Obvious One](/the-16gb-coding-model-trap/)
 - [192GB Just Broke The Local AI Memory Wall Open](/192gb-just-changed-local-ai/)
 - [Your Mac Is Not Slow Your Runtime Is The Problem](/your-mac-is-not-slow-your-runtime-is/)
