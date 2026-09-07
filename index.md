@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Stop Renting AI Before It Gets Much More Expensive](/stop-renting-ai-buy-the-machine/)
 - [Your Local AI Setup Needs More VRAM Than You Think](/how-much-vram-do-you-actually-need-for-local-ai/)
 - [Nvidia DGX Spark Just Made Local AI Feel Serious](/nvidia-dgx-spark-makes-local-ai-feel-ridiculous/)
 - [The Qwen Speed Run That Changes Local AI Forever](/qwen-3-8-27b-91-tokens-local-ai/)
