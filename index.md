@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Letta Makes Local AI Finally Remember Your Work](/letta-local-ai-memory-agent/)
 - [Stop Renting AI Before It Gets Much More Expensive](/stop-renting-ai-buy-the-machine/)
 - [Your Local AI Setup Needs More VRAM Than You Think](/how-much-vram-do-you-actually-need-for-local-ai/)
 - [Nvidia DGX Spark Just Made Local AI Feel Serious](/nvidia-dgx-spark-makes-local-ai-feel-ridiculous/)
