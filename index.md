@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [The Local AI Mini PC I Would Actually Buy Today](/mini-pcs-amd-vs-nvidia-vs-mac-local-ai/)
 - [The Local AI Model That Finally Stops Flinching](/the-local-ai-model-that-finally-stops-flinching/)
 - [The Mac Mini Local AI Trap Costs More Than You Think](/which-mac-mini-local-ai/)
 - [This $4,000 Robot Exposes The Local AI Trap Now](/palmimo-devkit-local-ai-robot/)
