@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [The Mac Mini Local AI Trap Costs More Than You Think](/which-mac-mini-local-ai/)
 - [Letta Makes Local AI Finally Remember Your Work](/letta-local-ai-memory-agent/)
 - [Your Local AI Is Probably Picking The Wrong Model](/magnitude-local-ai-router/)
 - [Stop Renting AI Before It Gets Much More Expensive](/stop-renting-ai-buy-the-machine/)
