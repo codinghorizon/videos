@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [A 24GB Local Model Beat Claude Where It Should Not](/the-best-local-ai-coding-model-for-24gb-vram/)
 - [The Local AI Mini PC I Would Actually Buy Today](/mini-pcs-amd-vs-nvidia-vs-mac-local-ai/)
 - [The Local AI Model That Finally Stops Flinching](/the-local-ai-model-that-finally-stops-flinching/)
 - [The Mac Mini Local AI Trap Costs More Than You Think](/which-mac-mini-local-ai/)
