@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [ChatGPT vs Claude: Your Best Model May Cost Extra](/chatgpt-vs-claude-the-20-dollar-choice/)
 - [128GB vs 192GB: The Local AI Upgrade You Might Regret](/128gb-vs-192gb-local-ai/)
 - [DeepSeek V4.1 Flash Makes Claude Earn Your Money](/deepseek-v4-1-flash-makes-premium-ai-prove-it/)
 - [A 24GB Local Model Beat Claude Where It Should Not](/the-best-local-ai-coding-model-for-24gb-vram/)
