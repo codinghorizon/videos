@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Stop Spending $1000 On The Wrong Local AI Machine](/best-local-ai-machine-for-1000-dollars/)
 - [The best coding AI for 4GB VRAM has a hidden rival](/best-local-coding-ai-4gb-vram/)
 - [ChatGPT vs Claude: Your Best Model May Cost Extra](/chatgpt-vs-claude-the-20-dollar-choice/)
 - [128GB vs 192GB: The Local AI Upgrade You Might Regret](/128gb-vs-192gb-local-ai/)
