@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Deepseek 552B just ran on one mini PC. Here is how](/deepseek-v4-1-one-dgx-spark/)
 - [Your $1,000 local AI budget can buy the wrong machine](/best-local-ai-machines-1000/)
 - [The best coding AI for 4GB VRAM has a hidden rival](/best-local-coding-ai-4gb-vram/)
 - [ChatGPT vs Claude: Your Best Model May Cost Extra](/chatgpt-vs-claude-the-20-dollar-choice/)
