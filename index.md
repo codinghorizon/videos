@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Bonsai 2 shrinks local AI to 5.9 GB. What survives?](/bonsai-2-low-vram-local-ai/)
+- [Jev claims 200x faster AI and the demo is ridiculous](/jev-ai-decisions-at-machine-speed/)
 - [Mac mini vs RTX 5090: don't buy the wrong AI machine](/mac-mini-vs-rtx-5090-local-ai/)
 - [Deepseek 552B just ran on one mini PC. Here is how](/deepseek-v4-1-one-dgx-spark/)
 - [Your $1,000 local AI budget can buy the wrong machine](/best-local-ai-machines-1000/)
