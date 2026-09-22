@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [More VRAM or faster VRAM? The local AI buying trap](/more-vram-vs-faster-vram-spark-vs-5090/)
+- [The largest local AI model is bigger than you think](/largest-local-ai-model/)
 - [Bonsai 2 shrinks local AI to 5.9 GB. What survives?](/bonsai-2-low-vram-local-ai/)
 - [Jev claims 200x faster AI and the demo is ridiculous](/jev-ai-decisions-at-machine-speed/)
 - [Mac mini vs RTX 5090: don't buy the wrong AI machine](/mac-mini-vs-rtx-5090-local-ai/)
