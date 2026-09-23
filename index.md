@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [9 Local AI models ranked: the biggest wastes your VRAM](/local-ai-models-tier-list/)
 - [Apple put a trillion parameter AI on just 4 macs](/apple-four-macs-trillion-parameter-ai/)
+- [GPT 6 sol's 91% cost saving puts claude on notice](/gpt-6-sol-vs-astra/)
 - [Qwen 3.8 flash passed 125 tok/s with this speed trick](/qwen-3-8-flash-125-tokens/)
 - [The m5 ultra review result nvidia buyers should see](/apple-m5-ultra-local-ai/)
 - [More VRAM or faster VRAM? The local AI buying trap](/more-vram-vs-faster-vram-spark-vs-5090/)
