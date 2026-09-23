@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [9 Local AI models ranked: the biggest wastes your VRAM](/local-ai-models-tier-list/)
+- [A $300 PC can run 27B AI, but there's a huge catch](/best-local-ai-machines-300/)
 - [Apple put a trillion parameter AI on just 4 macs](/apple-four-macs-trillion-parameter-ai/)
 - [GPT 6 sol's 91% cost saving puts claude on notice](/gpt-6-sol-vs-astra/)
 - [Qwen 3.8 flash passed 125 tok/s with this speed trick](/qwen-3-8-flash-125-tokens/)
