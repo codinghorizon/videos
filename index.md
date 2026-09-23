@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Apple put a trillion parameter AI on just 4 macs](/apple-four-macs-trillion-parameter-ai/)
+- [The m5 ultra review result nvidia buyers should see](/apple-m5-ultra-local-ai/)
 - [More VRAM or faster VRAM? The local AI buying trap](/more-vram-vs-faster-vram-spark-vs-5090/)
 - [The largest local AI model is bigger than you think](/largest-local-ai-model/)
 - [Bonsai 2 shrinks local AI to 5.9 GB. What survives?](/bonsai-2-low-vram-local-ai/)
