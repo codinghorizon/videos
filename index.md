@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Apple put a trillion parameter AI on just 4 macs](/apple-four-macs-trillion-parameter-ai/)
 - [More VRAM or faster VRAM? The local AI buying trap](/more-vram-vs-faster-vram-spark-vs-5090/)
 - [The largest local AI model is bigger than you think](/largest-local-ai-model/)
 - [Bonsai 2 shrinks local AI to 5.9 GB. What survives?](/bonsai-2-low-vram-local-ai/)
@@ -17,6 +18,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 - [Mac mini vs RTX 5090: don't buy the wrong AI machine](/mac-mini-vs-rtx-5090-local-ai/)
 - [Deepseek 552B just ran on one mini PC. Here is how](/deepseek-v4-1-one-dgx-spark/)
 - [Your $1,000 local AI budget can buy the wrong machine](/best-local-ai-machines-1000/)
+- [Stop Spending $1000 On The Wrong Local AI Machine](/best-local-ai-machine-for-1000-dollars/)
 - [The best coding AI for 4GB VRAM has a hidden rival](/best-local-coding-ai-4gb-vram/)
 - [ChatGPT vs Claude: Your Best Model May Cost Extra](/chatgpt-vs-claude-the-20-dollar-choice/)
 - [128GB vs 192GB: The Local AI Upgrade You Might Regret](/128gb-vs-192gb-local-ai/)
