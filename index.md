@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Your local AI choice could make it feel broken](/which-local-ai-is-right-for-you/)
 - [9 Local AI models ranked: the biggest wastes your VRAM](/local-ai-models-tier-list/)
 - [A $300 PC can run 27B AI, but there's a huge catch](/best-local-ai-machines-300/)
 - [Apple put a trillion parameter AI on just 4 macs](/apple-four-macs-trillion-parameter-ai/)
