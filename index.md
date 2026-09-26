@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Local AI is free until you see this hardware bill](/the-real-cost-of-local-ai/)
 - [The Four Bit Setting That Makes Huge AI Models Fit](/quantization-explained/)
 - [Your Local AI Is Slow for a Reason You Can Fix](/why-your-local-ai-is-so-slow/)
 - [Your PC Could Run Better Local AI Than You Think](/upgrade-or-buy-local-ai/)
