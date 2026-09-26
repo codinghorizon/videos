@@ -12,6 +12,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 <!-- pages:start -->
 - [The Four Bit Setting That Makes Huge AI Models Fit](/quantization-explained/)
 - [Your Local AI Is Slow for a Reason You Can Fix](/why-your-local-ai-is-so-slow/)
+- [Your PC Could Run Better Local AI Than You Think](/upgrade-or-buy-local-ai/)
 - [Your local AI choice could make it feel broken](/which-local-ai-is-right-for-you/)
 - [9 Local AI models ranked: the biggest wastes your VRAM](/local-ai-models-tier-list/)
 - [A $300 PC can run 27B AI, but there's a huge catch](/best-local-ai-machines-300/)
