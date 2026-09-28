@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Jev's big idea makes local qwen do less and act faster](/jev-qwen-local-ai-that-takes-action/)
 - [8 local AI myths that make you buy the wrong upgrade](/8-local-ai-myths-that-waste-money/)
 - [Local AI is free until you see this hardware bill](/the-real-cost-of-local-ai/)
 - [The Four Bit Setting That Makes Huge AI Models Fit](/quantization-explained/)
