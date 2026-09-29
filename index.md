@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Jev can't do what these 2 local AI rivals unlocked](/jev-local-alternatives-decider-omni/)
+- [Ollama's best trick isn't the chatbot you downloaded](/you-need-to-be-using-ollama/)
 - [Qwen is 3x faster on apple, but should you switch?](/qwen-three-times-faster-on-apple/)
 - [Strix halo vs mac studio: the 128GB buying trap](/strix-halo-vs-mac-studio-local-ai/)
 - [Your local coding AI can edit the wrong files confidently](/best-local-ai-coding-stack/)
