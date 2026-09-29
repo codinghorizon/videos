@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Jev can't do what these 2 local AI rivals unlocked](/jev-local-alternatives-decider-omni/)
 - [Qwen is 3x faster on apple, but should you switch?](/qwen-three-times-faster-on-apple/)
 - [Strix halo vs mac studio: the 128GB buying trap](/strix-halo-vs-mac-studio-local-ai/)
 - [AI chips hit 17,000 tok/s. Should you ditch GPUs?](/dedicated-ai-chips-qwen-blackhole/)
