@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Qwen is 3x faster on apple, but should you switch?](/qwen-three-times-faster-on-apple/)
+- [Strix halo vs mac studio: the 128GB buying trap](/strix-halo-vs-mac-studio-local-ai/)
 - [AI chips hit 17,000 tok/s. Should you ditch GPUs?](/dedicated-ai-chips-qwen-blackhole/)
 - [Jev's big idea makes local qwen do less and act faster](/jev-qwen-local-ai-that-takes-action/)
 - [8 local AI myths that make you buy the wrong upgrade](/8-local-ai-myths-that-waste-money/)
