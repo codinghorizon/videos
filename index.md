@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [$500 for local AI and one GPU changes everything](/best-local-ai-machine-under-500/)
+- [32GB VRAM Can Run These Models, But One Stands Out](/best-local-ai-on-32gb-vram/)
 - [Two Cheap GPUs Have a Local AI Catch Nobody Mentions](/two-budget-gpus-vs-one-local-ai/)
 - [Your OS is quietly choosing how good local AI feels](/which-operating-system-for-local-ai/)
 - [Your Next Local AI Upgrade Could Already Be Free](/local-ai-september-2026-news/)
