@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [7 Qwen 3.8 models, and the biggest is not the best](/qwen-3-8-models-tier-list/)
 - [Qwen 125B On Strix Halo Runs, But At What Speed?](/125b-qwen-strix-halo/)
 - [The Cheapest Way to Run 100B AI Has a Catch Today](/cheapest-way-to-run-100b-models-locally/)
 - [The Mac Mini Has a Local AI Limit Nobody Sees Coming](/mac-mini-vs-mac-studio-local-ai/)
