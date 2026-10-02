@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Qwen 125B On Strix Halo Runs, But At What Speed?](/125b-qwen-strix-halo/)
 - [$500 for local AI and one GPU changes everything](/best-local-ai-machine-under-500/)
 - [32GB VRAM Can Run These Models, But One Stands Out](/best-local-ai-on-32gb-vram/)
 - [Two Cheap GPUs Have a Local AI Catch Nobody Mentions](/two-budget-gpus-vs-one-local-ai/)
