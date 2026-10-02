@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Qwen 125B On Strix Halo Runs, But At What Speed?](/125b-qwen-strix-halo/)
+- [The Cheapest Way to Run 100B AI Has a Catch Today](/cheapest-way-to-run-100b-models-locally/)
 - [The Mac Mini Has a Local AI Limit Nobody Sees Coming](/mac-mini-vs-mac-studio-local-ai/)
 - [$500 for local AI and one GPU changes everything](/best-local-ai-machine-under-500/)
 - [32GB VRAM Can Run These Models, But One Stands Out](/best-local-ai-on-32gb-vram/)
