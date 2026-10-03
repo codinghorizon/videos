@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [RTX 5090 Can Replace Claude. What Is The Catch?](/can-rtx-5090-replace-cloud-ai/)
 - [7 Qwen 3.8 models, and the biggest is not the best](/qwen-3-8-models-tier-list/)
 - [Local AI Hit 150 Tok/s. So Why Does It Still Feel Slow?](/truth-about-local-ai-speed/)
 - [Qwen 125B On Strix Halo Runs, But At What Speed?](/125b-qwen-strix-halo/)
