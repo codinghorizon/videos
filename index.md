@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [128GB Local AI Has One Model That Makes It Worth It](/best-local-ai-128gb-vram/)
+- [Four RTX 3090s Run 100B AI Fast, But There Is a Catch](/used-epyc-vs-rtx-3090s-100b-local-ai/)
 - [RTX 5090 Can Replace Claude. What Is The Catch?](/can-rtx-5090-replace-cloud-ai/)
 - [The Real Reason Developers Keep Running AI Locally](/the-truth-about-why-people-run-ai-locally/)
 - [7 Qwen 3.8 models, and the biggest is not the best](/qwen-3-8-models-tier-list/)
