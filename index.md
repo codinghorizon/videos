@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [128GB Local AI Has One Model That Makes It Worth It](/best-local-ai-128gb-vram/)
 - [RTX 5090 Can Replace Claude. What Is The Catch?](/can-rtx-5090-replace-cloud-ai/)
 - [The Real Reason Developers Keep Running AI Locally](/the-truth-about-why-people-run-ai-locally/)
 - [7 Qwen 3.8 models, and the biggest is not the best](/qwen-3-8-models-tier-list/)
