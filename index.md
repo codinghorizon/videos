@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Intel's $799 24GB GPU Takes On The Used RTX 3090](/intel-24gb-gpu-local-ai/)
 - [128GB Local AI Has One Model That Makes It Worth It](/best-local-ai-128gb-vram/)
 - [Four RTX 3090s Run 100B AI Fast, But There Is a Catch](/used-epyc-vs-rtx-3090s-100b-local-ai/)
 - [The Best Local AI Machine For $2,000 Has A Catch](/best-local-ai-machine-2000/)
