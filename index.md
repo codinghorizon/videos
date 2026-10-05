@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Don't Buy a Loud GPU Tower for Local AI All Day](/silent-local-ai-box/)
 - [Intel's $799 24GB GPU Takes On The Used RTX 3090](/intel-24gb-gpu-local-ai/)
 - [Your 12GB GPU Can Run 125B AI, If You Own This](/qwen-125b-on-12gb-gpu/)
 - [128GB Local AI Has One Model That Makes It Worth It](/best-local-ai-128gb-vram/)
