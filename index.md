@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Your $200 AI Plan Can Get Worse. Your Local AI Can't](/your-200-ai-plan-can-get-worse/)
 - [Don't Buy a Loud GPU Tower for Local AI All Day](/silent-local-ai-box/)
 - [Intel's $799 24GB GPU Takes On The Used RTX 3090](/intel-24gb-gpu-local-ai/)
 - [Your 12GB GPU Can Run 125B AI, If You Own This](/qwen-125b-on-12gb-gpu/)
