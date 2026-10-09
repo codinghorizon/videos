@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [16GB Is Enough For Local AI Until You Hit These Limits](/16gb-or-24gb-for-local-ai-rtx-5060-ti-or-used-3090/)
 - [The RTX 3090 Trap That Costs Local AI Buyers $1,600](/dont-buy-local-ai-hardware-checklist/)
 - [RTX 4090 48GB Mods Have One Expensive Catch For Buyers](/modded-gpus-local-ai/)
 - [Your Local AI Lab Costs More Than The GPU (Three Builds)](/home-local-ai-lab-full-cost/)
