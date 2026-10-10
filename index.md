@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Claude Grade Coding On A Cheap 12GB GPU (Local AI)](/a-9gb-local-model-codes-close-to-claude/)
 - [October 2026 Local AI Buyer's Sheet (Members)](/october-2026-local-ai-buyers-sheet/)
 - [16GB Is Enough For Local AI Until You Hit These Limits](/16gb-or-24gb-for-local-ai-rtx-5060-ti-or-used-3090/)
 - [Kimi K3 At Home Costs 240 Months Of Claude Max!](/what-a-claude-opus-5-class-ai-costs-to-run-at-home/)
