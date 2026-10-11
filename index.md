@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Don't Preorder NVIDIA's First 128GB CUDA Laptop Yet](/128gb-cuda-laptop-most-buyers-should-wait/)
 - [An 8GB Mac Is The Wrong Buy For Local AI Today](/your-old-mac-local-ai-m1-m6/)
 - [Claude Grade Coding On A Cheap 12GB GPU (Local AI)](/a-9gb-local-model-codes-close-to-claude/)
 - [Fine Tune 8B AI On A $480 RTX 3060 (One Catch)](/fine-tune-your-own-ai-model-at-home-the-hardware/)
