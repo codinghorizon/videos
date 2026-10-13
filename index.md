@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [The 8GB GPU Trap For Real Time Voice AI (RTX 5060)](/the-gpu-you-need-for-real-time-voice-ai/)
 - [Four R9700s Cost $6,800 Before You Even Get A PC](/four-r9700s-cost-6800-before-the-pc-exists/)
 - [Run Qwen 27B For $350, Or Fit 284B In A Mini PC](/run-ai-on-your-own-hardware-every-tier-october-2026/)
 - [Six MI50s Hit 192GB Of VRAM For $3,774 With One Catch](/192gb-vram-one-pc-local-ai-cost/)
