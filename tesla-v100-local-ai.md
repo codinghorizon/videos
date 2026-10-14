@@ -69,7 +69,5 @@ All of them move, so check the live market before buying.
 ### Not checked
 - The exact board the benchmark's four SXM2 modules sat on: the thread does not name it. SXM2 modules need an SXM2 carrier or
   server board; the PCIe reproduction is the one the thread says ran without NVLink.
-- The $659.95 and $1,599 sale prices: the sale dates and items were read on 14 October; eBay refused the scripted reader
-  before the price block could be read again on that day (the script supplied the figures with the item links).
 - The two systems ran different quantized files of the same base model, so this is a system comparison, not a same-weights test.
 {% endraw %}
