@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [Four V100s Nearly Matched The RTX 5090. Here Is Why](/tesla-v100-local-ai/)
 - [The $1,699 Strix Halo Deal Is Gone For Now (128GB)](/strix-halo-mini-pcs-from-1-699-the-one-to-buy-128gb/)
 - [The $13,999 DGX Spark Pair Reads 3x Faster Than A Mac](/m5-ultra-mac-studio-two-dgx-sparks-real-price/)
 - [The 8GB GPU Trap For Real Time Voice AI (RTX 5060)](/the-gpu-you-need-for-real-time-voice-ai/)
