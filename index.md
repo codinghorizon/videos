@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Don't Upgrade Your 8GB GPU Until You Try These Models](/dont-upgrade-8gb-gpu-until-try-these-models/)
+- [The RTX 4090 Wins Until Your Model Hits Its 24GB Wall](/macbook-pro-or-rtx-4090-desktop/)
 - [Bonsai 2 Packs 27B AI Into a File Smaller Than 6GB](/bonsai-2-gpu-mac-card-by-card/)
 - [Four V100s Nearly Matched The RTX 5090. Here Is Why](/tesla-v100-local-ai/)
 - [Mac Mini M6: The 32GB Upgrade Changes Local AI](/mac-mini-m6-local-ai-memory-size-to-buy/)
