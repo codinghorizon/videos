@@ -11,6 +11,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 
 <!-- pages:start -->
 - [Don't Upgrade Your 8GB GPU Until You Try These Models](/dont-upgrade-8gb-gpu-until-try-these-models/)
+- [RX 9060 XT Runs 27B AI For $270 Less Than Nvidia](/radeon-rx-9060-xt-16gb-or-rtx-5060-ti-for-27b-models/)
 - [The RTX 4090 Wins Until Your Model Hits Its 24GB Wall](/macbook-pro-or-rtx-4090-desktop/)
 - [Bonsai 2 Packs 27B AI Into a File Smaller Than 6GB](/bonsai-2-gpu-mac-card-by-card/)
 - [Four V100s Nearly Matched The RTX 5090. Here Is Why](/tesla-v100-local-ai/)
