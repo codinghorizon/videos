@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [The VRAM You Need For Every Local AI Model (October 2026)](/vram-you-need-for-every-local-ai-model/)
 - [Don't Upgrade Your 8GB GPU Until You Try These Models](/dont-upgrade-8gb-gpu-until-try-these-models/)
 - [RX 9060 XT Runs 27B AI For $270 Less Than Nvidia](/radeon-rx-9060-xt-16gb-or-rtx-5060-ti-for-27b-models/)
 - [The RTX 4090 Wins Until Your Model Hits Its 24GB Wall](/macbook-pro-or-rtx-4090-desktop/)
