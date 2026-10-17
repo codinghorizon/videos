@@ -10,6 +10,7 @@ The channel: [@codinghorizondev](https://www.youtube.com/@codinghorizondev)
 ## Every video
 
 <!-- pages:start -->
+- [The Best Local AI Models For A 48GB VRAM Setup](/best-local-ai-models-48gb-vram/)
 - [The Only GPUs Worth Buying For Local AI (October 2026)](/the-only-gpus-worth-buying-for-local-ai-october/)
 - [The VRAM You Need For Every Local AI Model (October 2026)](/vram-you-need-for-every-local-ai-model/)
 - [Don't Upgrade Your 8GB GPU Until You Try These Models](/dont-upgrade-8gb-gpu-until-try-these-models/)
