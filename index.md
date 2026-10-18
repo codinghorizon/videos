@@ -1,5 +1,5 @@
 ---
-title: "Coding Horizon"
+title: "Locally Explains"
 ---
 
 Working notes and sources for every video. Each page lists every figure used,
