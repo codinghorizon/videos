@@ -35,8 +35,8 @@ Every figure the video says or shows, with the source it comes from. Prices were
   https://www.newegg.com/team-group-4tb-t-force-nvme/p/N82E16820985406
 - **A network cable, about $10.** Not tied to one listing.
 - **The $500 and $2,000 hosts** are the channel's reference build budgets, not listings.
-  https://codinghorizon.dev/best-local-ai-machine-under-500/
-  https://codinghorizon.dev/best-local-ai-machine-2000/
+  https://locallyexplains.site/best-local-ai-machine-under-500/
+  https://locallyexplains.site/best-local-ai-machine-2000/
 
 ## The totals (arithmetic)
 
