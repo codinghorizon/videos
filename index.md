@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [How Much VRAM Qwen 4 Will Really Need (16GB To 512GB)](/how-much-vram-qwen-4-will-need/)
+- [The Local AI Your PC Can Run With No GPU (October 2026)](/local-ai-your-pc-can-run-with-no-gpu/)
 - [The Only Mini PCs Worth Buying For Local AI (October 2026)](/the-only-mini-pcs-worth-buying-for-local-ai-october/)
 - [Nvidia vs AMD vs Intel GPUs For Running Local AI Models](/nvidia-vs-amd-vs-intel-gpus-local-ai/)
 - [The Best Local AI Models For A 48GB VRAM Setup](/best-local-ai-models-48gb-vram/)
