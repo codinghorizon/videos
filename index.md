@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [The Only Mini PCs Worth Buying For Local AI (October 2026)](/the-only-mini-pcs-worth-buying-for-local-ai-october/)
 - [Nvidia vs AMD vs Intel GPUs For Running Local AI Models](/nvidia-vs-amd-vs-intel-gpus-local-ai/)
 - [The Best Local AI Models For A 48GB VRAM Setup](/best-local-ai-models-48gb-vram/)
 - [The Only GPUs Worth Buying For Local AI (October 2026)](/the-only-gpus-worth-buying-for-local-ai-october/)
