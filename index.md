@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [How To Start Running Local AI The Correct Way (2026)](/start-running-local-ai-the-correct-way/)
 - [The Best Local AI Hardware For $5,000 (October 2026)](/best-local-ai-hardware-for-5000/)
 - [The Only Phones Worth Running Local AI On (October 2026)](/the-only-phones-worth-running-local-ai-on-october/)
 - [How Much VRAM Qwen 4 Will Really Need (16GB To 512GB)](/how-much-vram-qwen-4-will-need/)
