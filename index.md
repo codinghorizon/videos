@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [The Only Phones Worth Running Local AI On (October 2026)](/the-only-phones-worth-running-local-ai-on-october/)
 - [How Much VRAM Qwen 4 Will Really Need (16GB To 512GB)](/how-much-vram-qwen-4-will-need/)
 - [The Local AI Your PC Can Run With No GPU (October 2026)](/local-ai-your-pc-can-run-with-no-gpu/)
 - [The Only Mini PCs Worth Buying For Local AI (October 2026)](/the-only-mini-pcs-worth-buying-for-local-ai-october/)
