@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [The Best Local AI For Coding You Can Run At Home](/best-local-ai-for-coding-you-can-run-at-home/)
 - [How To Start Running Local AI The Correct Way (2026)](/start-running-local-ai-the-correct-way/)
 - [The Best Local AI Hardware For $5,000 (October 2026)](/best-local-ai-hardware-for-5000/)
 - [The Only Phones Worth Running Local AI On (October 2026)](/the-only-phones-worth-running-local-ai-on-october/)
