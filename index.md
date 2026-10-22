@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [The Biggest AI Models That Fit On 8 DGX Sparks](/biggest-local-ai-8-dgx-sparks/)
 - [The Cheapest Way To Run 400B+ Local Models (October 2026)](/cheapest-way-to-run-400b-models-locally/)
 - [Two Free Tesla T4s Run A 35B Local AI Model (32GB VRAM)](/free-32gb-vram-ai-server/)
 - [Your Local AI Gets 2x Faster Without a New Graphics Card](/eagle-4-free-speed-up-local-ai/)
