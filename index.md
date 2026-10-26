@@ -10,7 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
-- [The Cheapest Ways To Get 64GB VRAM For Local AI](/every-way-to-get-64gb-vram-local-ai/)
+- [The Cheapest Ways To Get 64GB VRAM For Local AI](/cheapest-ways-to-get-64gb-vram-local-ai/)
 - [The Biggest AI Models That Fit On 8 DGX Sparks](/biggest-local-ai-8-dgx-sparks/)
 - [The Cheapest Way To Run 400B+ Local Models (October 2026)](/cheapest-way-to-run-400b-models-locally/)
 - [Two Free Tesla T4s Run A 35B Local AI Model (32GB VRAM)](/free-32gb-vram-ai-server/)
