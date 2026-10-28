@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [Desktop vs Laptop vs Mini PC For Local AI (October 2026)](/desktop-vs-laptop-vs-mini-pc-local-ai/)
+- [The Best Local AI On A 6GB Graphics Card](/best-local-ai-on-6gb-vram/)
 - [The Local AI GPU Tier List (RTX 3090, 5090, P40, MI50)](/local-ai-gpu-tier-list/)
 - [The Cheapest Ways To Get 64GB VRAM For Local AI](/cheapest-ways-to-get-64gb-vram-local-ai/)
 - [The Biggest AI Models That Fit On 8 DGX Sparks](/biggest-local-ai-8-dgx-sparks/)
