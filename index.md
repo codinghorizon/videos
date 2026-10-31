@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [The Best Tiny Local AI To Leave Running 24/7](/best-local-ai-to-leave-running-24-7/)
 - [The Biggest Local AI The AMD Ryzen AI Halo Runs](/ryzen-ai-halo-192gb-local-ai/)
 - [Can Your PS5 Run Qwen 3.8 27B Local AI?](/ps5-qwen-3-8-27b-local-ai/)
 - [Desktop vs Laptop vs Mini PC For Local AI (October 2026)](/desktop-vs-laptop-vs-mini-pc-local-ai/)
