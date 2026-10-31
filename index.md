@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Is ChatGPT Level Local AI Finally Worth It?](/local-ai-worth-it-vs-chatgpt/)
 - [The Best Tiny Local AI To Leave Running 24/7](/best-local-ai-to-leave-running-24-7/)
 - [The Biggest Local AI The AMD Ryzen AI Halo Runs](/ryzen-ai-halo-192gb-local-ai/)
 - [Upgrade Your PC vs Buy A Mac Mini (Local AI)](/upgrade-your-pc-vs-mac-mini-local-ai/)
