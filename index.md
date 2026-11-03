@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Can Your Local AI Machine Run DeepSeek V4.1?](/deepseek-v4-1-memory-every-machine/)
 - [Run Claude Code On Local AI For Free](/run-claude-code-on-local-ai-for-free/)
 - [The Best Local AI For Every Mac](/best-local-ai-for-every-mac/)
 - [The Best Local AI Your Old PC Can Run](/best-local-ai-your-old-pc-can-run/)
