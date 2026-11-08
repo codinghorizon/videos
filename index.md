@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Nvidia GPUs Are Slower Than You Think (Local AI)](/nvidia-gpus-slower-than-you-think-local-ai/)
 - [The Cheapest Ways To Get 256GB Memory For Local AI](/cheapest-ways-to-get-256gb-memory-local-ai/)
 - [Can Your Local AI Machine Run DeepSeek V4.1?](/deepseek-v4-1-memory-every-machine/)
 - [Don't Buy 128GB For Local AI (Do This Instead)](/dont-buy-128gb-local-ai/)
