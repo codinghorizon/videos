@@ -12,6 +12,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 <!-- pages:start -->
 - [Gemma 4 vs Qwen 3.8 (Local AI)](/gemma-4-vs-qwen-3-8-local-ai/)
 - [Nvidia GPUs Are Slower Than You Think (Local AI)](/nvidia-gpus-slower-than-you-think-local-ai/)
+- [Ollama On Your Mac Can Run Local AI Twice As Fast](/ollama-mac-twice-as-fast/)
 - [The Cheapest Ways To Get 256GB Memory For Local AI](/cheapest-ways-to-get-256gb-memory-local-ai/)
 - [Can Your Local AI Machine Run DeepSeek V4.1?](/deepseek-v4-1-memory-every-machine/)
 - [Don't Buy 128GB For Local AI (Do This Instead)](/dont-buy-128gb-local-ai/)
