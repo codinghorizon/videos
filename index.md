@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Ollama vs LM Studio vs llama.cpp (Local AI Speed)](/ollama-vs-lm-studio-vs-llama-cpp/)
 - [Gemma 4 vs Qwen 3.8 (Local AI)](/gemma-4-vs-qwen-3-8-local-ai/)
 - [Nvidia GPUs Are Slower Than You Think (Local AI)](/nvidia-gpus-slower-than-you-think-local-ai/)
 - [Ollama On Your Mac Can Run Local AI Twice As Fast](/ollama-mac-twice-as-fast/)
