@@ -12,6 +12,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 <!-- pages:start -->
 - [16GB Is All You Need For Local AI (2026)](/is-16gb-enough-for-local-ai/)
 - [RAM vs VRAM vs Unified Memory (Local AI)](/ram-vs-vram-vs-unified-memory-local-ai/)
+- [The Best Local AI Image Generator For Every GPU](/best-local-ai-image-generator-every-gpu/)
 - [Ollama vs LM Studio vs llama.cpp (Local AI Speed)](/ollama-vs-lm-studio-vs-llama-cpp/)
 - [Gemma 4 vs Qwen 3.8 (Local AI)](/gemma-4-vs-qwen-3-8-local-ai/)
 - [Nvidia GPUs Are Slower Than You Think (Local AI)](/nvidia-gpus-slower-than-you-think-local-ai/)
