@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [ChatGPT vs Claude vs Gemini vs Local AI (The Math)](/chatgpt-claude-gemini-vs-local-ai-math/)
 - [The Biggest Local AI A Cheap GPU Can Run](/biggest-local-ai-cheap-gpu-strata/)
 - [16GB Is All You Need For Local AI (2026)](/is-16gb-enough-for-local-ai/)
 - [External GPU vs Desktop Tower For Local AI](/external-gpu-vs-desktop-tower-local-ai/)
