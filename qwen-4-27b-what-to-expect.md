@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "What To Expect From Qwen 4 27B For Local AI"
+title: "Which Local AI GPU To Get For Qwen 4 27B"
 permalink: /qwen-4-27b-what-to-expect/
 date: 2026-11-14
 ---
 
-# What To Expect From Qwen 4 27B For Local AI
+# Which Local AI GPU To Get For Qwen 4 27B
 
 {% raw %}
 Format: figure | exact context | URL | what the page literally says (as fetched today).
