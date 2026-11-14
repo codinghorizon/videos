@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [How Much VRAM Local AI Really Needs At Full Context](/how-much-vram-local-ai-full-context/)
+- [What To Expect From Qwen 4 27B For Local AI](/qwen-4-27b-what-to-expect/)
 - [ChatGPT vs Claude vs Gemini vs Local AI (The Math)](/chatgpt-claude-gemini-vs-local-ai-math/)
 - [The Best Local AI GPU For Every Budget (November 2026)](/best-local-ai-gpu-every-budget/)
 - [The Biggest Local AI A Cheap GPU Can Run](/biggest-local-ai-cheap-gpu-strata/)
