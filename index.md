@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [Mac Mini vs Your $200 AI Subscription (Local AI)](/mac-mini-vs-200-ai-subscription/)
+- [Mac Studio vs DGX Spark (Local AI)](/mac-studio-vs-dgx-spark-local-ai/)
 - [The Best Uncensored Local AI For Every VRAM Size](/best-uncensored-local-ai-every-vram/)
 - [How Much VRAM Local AI Really Needs At Full Context](/how-much-vram-local-ai-full-context/)
 - [Which Local AI GPU To Get For Qwen 4 27B](/qwen-4-27b-what-to-expect/)
