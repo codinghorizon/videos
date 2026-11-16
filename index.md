@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [The Best Uncensored Local AI For Every VRAM Size](/best-uncensored-local-ai-every-vram/)
 - [How Much VRAM Local AI Really Needs At Full Context](/how-much-vram-local-ai-full-context/)
 - [Which Local AI GPU To Get For Qwen 4 27B](/qwen-4-27b-what-to-expect/)
 - [ChatGPT vs Claude vs Gemini vs Local AI (The Math)](/chatgpt-claude-gemini-vs-local-ai-math/)
