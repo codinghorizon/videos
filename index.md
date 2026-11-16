@@ -12,6 +12,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 <!-- pages:start -->
 - [Mac Mini vs Your $200 AI Subscription (Local AI)](/mac-mini-vs-200-ai-subscription/)
 - [Mac Studio vs DGX Spark (Local AI)](/mac-studio-vs-dgx-spark-local-ai/)
+- [Make Your Local AI 10x Faster Without New Hardware](/make-local-ai-10x-faster-free/)
 - [The Best Uncensored Local AI For Every VRAM Size](/best-uncensored-local-ai-every-vram/)
 - [The Only Mac Mini Worth Buying For Local AI (November 2026)](/only-mac-mini-worth-buying-local-ai/)
 - [The Truth About Spending Thousands On Local AI](/truth-about-spending-thousands-local-ai/)
