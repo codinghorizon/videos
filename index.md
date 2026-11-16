@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [I Priced 512GB Of Local AI vs Claude For Coding](/512gb-local-ai-vs-claude-for-coding/)
 - [Mac Mini vs Your $200 AI Subscription (Local AI)](/mac-mini-vs-200-ai-subscription/)
 - [Mac Studio vs DGX Spark (Local AI)](/mac-studio-vs-dgx-spark-local-ai/)
 - [Make Your Local AI 10x Faster Without New Hardware](/make-local-ai-10x-faster-free/)
