@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [Does A Second GPU Make Local AI Faster?](/second-gpu-local-ai-faster/)
+- [The Cheapest Old GPUs That Still Run Qwen 3.8 27B](/cheapest-old-gpus-qwen-3-8-27b/)
 - [What A 1TB Local AI Really Costs](/what-a-1tb-local-ai-really-costs/)
 - [64GB Of RAM Runs A 100B Local AI Model Without A GPU](/100b-local-ai-64gb-ram-no-gpu/)
 - [I Priced 512GB Of Local AI vs Claude For Coding](/512gb-local-ai-vs-claude-for-coding/)
