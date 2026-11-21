@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [Does A Second GPU Make Local AI Faster?](/second-gpu-local-ai-faster/)
+- [How Far Behind Claude Is Local AI Right Now?](/how-far-behind-claude-is-local-ai/)
 - [Qwen 3.8 Flash Next At 190 Tok/s: The Fastest Way To Run It](/qwen-3-8-flash-next-fastest-way-to-run/)
 - [The Cheapest Old GPUs That Still Run Qwen 3.8 27B](/cheapest-old-gpus-qwen-3-8-27b/)
 - [What A 1TB Local AI Really Costs](/what-a-1tb-local-ai-really-costs/)
