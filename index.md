@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Does A Second GPU Make Local AI Faster?](/second-gpu-local-ai-faster/)
 - [64GB Of RAM Runs A 100B Local AI Model Without A GPU](/100b-local-ai-64gb-ram-no-gpu/)
 - [I Priced 512GB Of Local AI vs Claude For Coding](/512gb-local-ai-vs-claude-for-coding/)
 - [Mac Mini vs Your $200 AI Subscription (Local AI)](/mac-mini-vs-200-ai-subscription/)
