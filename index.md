@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Run AI Like ChatGPT At Home For Free (Local AI)](/run-ai-like-chatgpt-at-home-free/)
 - [Local AI vs Paying Per Request (The Grid)](/local-ai-vs-the-grid/)
 - [Does A Second GPU Make Local AI Faster?](/second-gpu-local-ai-faster/)
 - [How Far Behind Claude Is Local AI Right Now?](/how-far-behind-claude-is-local-ai/)
