@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Mac vs PC For Local AI (November 2026)](/mac-vs-pc-for-local-ai/)
 - [Run AI Like ChatGPT At Home For Free (Local AI)](/free-chatgpt-on-the-pc-you-own/)
 - [Run AI Like ChatGPT At Home For Free (Local AI)](/run-ai-like-chatgpt-at-home-free/)
 - [Local AI vs Paying Per Request (The Grid)](/local-ai-vs-the-grid/)
