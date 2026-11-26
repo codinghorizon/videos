@@ -11,6 +11,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 
 <!-- pages:start -->
 - [Best Local AI With 0GB Of VRAM (No GPU Needed)](/best-local-ai-0gb-vram/)
+- [Every Way To Get 96GB VRAM For Local AI](/every-way-to-get-96gb-vram/)
 - [Every way to run local AI, from a phone to a server, ranked](/every-way-to-run-local-ai-ranked/)
 - [The Best Local AI On 64GB VRAM](/best-local-ai-64gb-vram/)
 - [What Local AI Actually Runs On A Raspberry Pi](/local-ai-raspberry-pi/)
