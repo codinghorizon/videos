@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [Is The $2,599 RTX Spark Worth It For Local AI?](/is-rtx-spark-worth-it-local-ai/)
 - [Best Local AI With 0GB Of VRAM (No GPU Needed)](/best-local-ai-0gb-vram/)
 - [Every Way To Get 96GB VRAM For Local AI](/every-way-to-get-96gb-vram/)
 - [Every way to run local AI, from a phone to a server, ranked](/every-way-to-run-local-ai-ranked/)
