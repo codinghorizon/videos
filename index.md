@@ -10,6 +10,7 @@ The channel: [@LocallyExplains](https://www.youtube.com/@LocallyExplains)
 ## Every video
 
 <!-- pages:start -->
+- [NVIDIA's 74B Local AI Fits In 24GB (Nemotron 3.5 Bolt)](/nemotron-3-5-bolt-74b-24gb/)
 - [Is The $2,599 RTX Spark Worth It For Local AI?](/is-rtx-spark-worth-it-local-ai/)
 - [Best Local AI With 0GB Of VRAM (No GPU Needed)](/best-local-ai-0gb-vram/)
 - [Every Way To Get 96GB VRAM For Local AI](/every-way-to-get-96gb-vram/)
